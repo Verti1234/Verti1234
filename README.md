@@ -1,7 +1,7 @@
 #  Hi! I'm Krzysiek  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="width: 30px">
 
-I'm Krzysiek Godyń a Student of the school Elektronik in Zielona Góra.<br/>
-Still learning new things about programming. Sometimes I playing with Iot
+My name is Krzysiek Godyń. I'm currently studying in Elektronik in Zielona Góra.<br/>
+Still learning new things about programming. Sometimes I playing with IoT.
 
 
 ---
@@ -40,7 +40,7 @@ Still learning new things about programming. Sometimes I playing with Iot
 
 ---
 
-## 📚 Curently i'm aiming  to learn:
+## 📚 Currently I'm aiming to learn:
 
   - More about:
      - React
