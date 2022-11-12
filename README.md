@@ -21,6 +21,8 @@ Still learning new things about programming. Sometimes I playing with IoT.
 [![Blender Badge](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&labelColor=black&logo=blender&logoColor=F5792A)](#)
 [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=333333)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+
 
 
 ## 💻 My Experience
