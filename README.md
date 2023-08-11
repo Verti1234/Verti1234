@@ -10,19 +10,13 @@ Still learning new things about programming. Sometimes I playing with IoT.
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-eb4213?style=for-the-badge&labelColor=black&logo=html5&logoColor=eb4213)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) 
-[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#) 
 [![Arduino Badge](https://img.shields.io/badge/-Arduino-00bbc3?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00bbc3)](#)  
 [![MYSQL Badge](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![Blender Badge](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&labelColor=black&logo=blender&logoColor=F5792A)](#)
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)](#)
-[![Material-UI Badge](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=mui&logoColor=0081CB)](#)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)](#)
 
 
@@ -53,7 +47,6 @@ Still learning new things about programming. Sometimes I playing with IoT.
      - TypeScipt
      - Design
      - Git
-     - Iot
      - Node.js
      - Next.js
 
