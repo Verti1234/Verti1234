@@ -1,7 +1,7 @@
 #  Hi! I'm Krzysiek  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="width: 30px">
 
 My name is Krzysiek Godyń. I'm currently studying in Elektronik in Zielona Góra.<br/>
-Still learning new things about programming. Sometimes I playing with IoT.
+Still learning new things about programming.
 
 
 ---
