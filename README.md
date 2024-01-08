@@ -28,17 +28,6 @@ Still learning new things about programming.
 - JavaScript course provided by the company [Business masters](https://business-masters.pl)
 - I will get more achievements/experince in the future😄
 
-## 🌸 My Portfolio Website 
-
-...loading
-
-\<creating website in proggres>\
-... 
-
->Check later! 😉
-
----
-
 ## 📚 Currently I'm aiming to learn:
 
   - More about:
