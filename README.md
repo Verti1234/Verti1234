@@ -26,7 +26,6 @@ Still learning new things about programming.
  
 - Python course provided by the company [Software Development Academy](https://sdacademy.pl)
 - JavaScript course provided by the company [Business masters](https://business-masters.pl)
-- I will get more achievements/experince in the future😄
 
 ## 📚 Currently I'm aiming to learn:
 
@@ -43,14 +42,12 @@ Still learning new things about programming.
      - Making apps
      - Making games
      - Ethical hacking 
-     - 3D modeling
-     
 
 ## 📫 How to reach me:
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#)
 
-You can find me on [Discord](https://discord.com): Verti1234#2716 or send [e-mail](mailto:Verti1234.krzysiek@o2.pl )
+You can find me on [Discord](https://discord.com): Verti1234#2716 or send [e-mail](mailto:krzysztofgodyn501@gmail.com )
    
 
 
